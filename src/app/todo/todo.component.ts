@@ -32,7 +32,7 @@ export class TodoComponent implements OnInit {
       todo: task,
       done: false
     };
-    console.log(this.todoList);
+    console.log(this.todoList);.
     // this.todoObject.done = false;
     // this.todoObject.todo = task;
     console.log(data);
